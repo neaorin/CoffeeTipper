@@ -81,9 +81,9 @@
                     StyleId="DrinkType"
                     SelectedIndex="{Binding DrinkType, Mode=TwoWay}">
                     <Picker.Items>
-                        <x:String>Drip Coffee</x:String> 
-                        <x:String>Pour Over Coffee</x:String> 
-                        <x:String>Espresso</x:String>
+                        <x:String>Espresso</x:String> 
+                        <x:String>Americano</x:String>
+                        <x:String>Cappuccino</x:String>
                         <x:String>Latte</x:String>
                     </Picker.Items>
                 </Picker>
